@@ -10,7 +10,7 @@ def fetch_wallet_balances(wallets, fiat, **modes):
     is the address. example:
 
     [
-        ['btc', '1PZ3Ps9RvCmUW1s1rHE25FeR8vtKUrhEai'],
+        ['btc', '1ACMqsyyuoggTpiHqGePuFSVzk54wfZWDv'],
         ['ltc', 'Lb78JDGxMcih1gs3AirMeRW6jaG5V9hwFZ']
     ]
     """
